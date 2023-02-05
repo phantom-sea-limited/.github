@@ -8,9 +8,5 @@
 > 希望有人能记得曾经的过往，或者说，现在的故事
 
 
-关于现有的开发计划
-
-- [ ] 镜像站开放
-- [ ] Bot持续开发以及和API对接工作
-- [x] 咕咕咕，在做了在做了(0%)
+关于现有的开发计划的[传送门](https://github.com/orgs/phantom-sea-limited/projects/2/views/1)
 
