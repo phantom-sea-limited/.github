@@ -1,5 +1,4 @@
-![GF drawio](https://user-images.githubusercontent.com/46920034/216808390-9fa32054-a085-4447-b48a-43c34b4ccd25.svg)
-
+![](https://api.phantom-sea-limited.ltd/image/GF.svg)
 
 > 欢迎来到幻海实验室，或者说，未来的遗址
 >
