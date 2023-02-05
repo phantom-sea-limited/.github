@@ -8,5 +8,5 @@
 > 希望有人能记得曾经的过往，或者说，现在的故事
 
 
-关于现有的开发计划的[传送门](https://github.com/orgs/phantom-sea-limited/projects/2/views/1)
+关于现有的开发计划的[传送门](https://github.com/orgs/phantom-sea-limited/projects/2)
 
